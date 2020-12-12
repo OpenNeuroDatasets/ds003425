@@ -1,9 +1,0 @@
-{
-  "Type":	"Fear in the Mind's Eye - EDA",
-"SamplingFrequency":	1000,
-"StartTime":	0,
-"Columns": ["scr", "unused channels", "unused channels", "unused channels", "unused channels",	"unused channels",	"unused channels",	"unused channels",	"unused channels",	"unused channels"],
-"scr": {
-  "Units": "microsiemens"
-}
-}
