@@ -1,6 +1,6 @@
 {
     "BIDSVersion": "1.0.0",
-    "License": "CC0",
+    "License": "This dataset is made available under the Public Domain Dedication and License v1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike Community Norms (http://www.opendatacommons.org/norms/odc-by-sa/); in particular, while not legally required, we hope that all users of the data will cite the publication associated with these data",
     "Name": "Fear in the mind's eye: Mental imagery can generate and regulate acquired differential fear conditioned reactivity",
     "ReferenceAndLink": [
         "tbd"
@@ -16,8 +16,7 @@
         "Jonas Kaplan"
     ],
     "Funding": [
-        "University of Southern California Postdoctoral Scholars Research Grant and a Louisiana Board of Regents \u2013 Research Competitiveness Subprogram (S.G.G.) "
+        "University of Southern California Postdoctoral Scholars Research Grant and a Louisiana Board of Regents – Research Competitiveness Subprogram (S.G.G.) "
     ],
-    "HowToAcknowledge": "tbd",
-    "DatasetDOI": "10.18112/openneuro.ds003425.v1.0.0"
+    "HowToAcknowledge": "tbd"
 }
